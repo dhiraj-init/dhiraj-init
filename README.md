@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/dhiraj-init/Assets/blob/main/ChatGPT%20Image%20Jul%2019,%202026,%2011_51_22%20AM.png?raw=true" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Dhiraj Manas Behera</h1>
 
 <h3 align="center">
@@ -5,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dhiraj+Manas+Behera;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Things!" />
 </p>
 
 ---
@@ -24,10 +27,17 @@
 
 🚀 Always exploring new technologies and building impactful projects
 
-![](https://img.shields.io/badge/Focus-Full%20Stack-blue)
-![](https://img.shields.io/badge/Learning-AI%20%26%20ML-green)
-![](https://img.shields.io/badge/Open%20Source-Lover-orange)
-![](https://img.shields.io/badge/Ask%20Me-MERN-red)
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-blueviolet?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -111,7 +121,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhiraj-init&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhiraj-init&theme=onedark&row=1&column=7"/>
 
 </p>
 
@@ -131,6 +141,21 @@ A secure marketplace exclusively for college students to buy and sell books, ele
 A smart system that predicts blood demand, connects donors with hospitals and optimizes blood inventory using AI.
 
 ---
+
+## 🏆 Achievements
+
+- 🎓 Third Year CSE Student @ Walchand College of Engineering
+- 🏆 ACM Hackathon Finalist
+- 💻 Full Stack Developer
+- 🤖 AI & ML Enthusiast
+- 📚 Solving DSA on LeetCode
+- 🌱 Open Source Learner
+
+<h3 align="center">
+
+✨ Code • Learn • Build • Repeat ✨
+
+</h3>
 
 ## 📚 Currently Learning
 
@@ -160,9 +185,3 @@ A smart system that predicts blood demand, connects donors with hospitals and op
 </p>
 
 ---
-
-<h3 align="center">
-
-✨ Code • Learn • Build • Repeat ✨
-
-</h3>
