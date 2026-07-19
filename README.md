@@ -117,6 +117,12 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/dhiraj-init/dhiraj-init/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
