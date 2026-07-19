@@ -24,6 +24,11 @@
 
 🚀 Always exploring new technologies and building impactful projects
 
+![](https://img.shields.io/badge/Focus-Full%20Stack-blue)
+![](https://img.shields.io/badge/Learning-AI%20%26%20ML-green)
+![](https://img.shields.io/badge/Open%20Source-Lover-orange)
+![](https://img.shields.io/badge/Ask%20Me-MERN-red)
+
 ---
 
 ## 🌐 Connect With Me
@@ -36,6 +41,22 @@
 
 <a href="https://leetcode.com/u/dhirutech_002/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/dhirutech_02" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/dhirutech_002" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/dhiraj_296/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@bestfindshub-bfh1" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:dhiraj.tech02@gmail.com">
@@ -70,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj-init&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dhiraj-init&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,7 +111,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhiraj-init&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhiraj-init&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
