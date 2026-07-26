@@ -1,91 +1,111 @@
+<!-- ====================================================== -->
+<!--                    ANIMATED HEADER                      -->
+<!-- ====================================================== -->
+
+
+
+<!-- ====================================================== -->
+<!--                     CUSTOM BANNER                       -->
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://github.com/dhiraj-init/Assets/blob/main/ChatGPT%20Image%20Jul%2019,%202026,%2011_51_22%20AM.png?raw=true" alt="Banner" width="100%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzA2cm94aWR3ZWt0azdqeHNlcHl2b3B1cjc4aGc4dG9uOWpwaHk4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="100%">
 </p>
-<h1 align="center">Hi 👋, I'm Dhiraj Manas Behera</h1>
+
+<h1 align="center">Hi 👋, I'm Dhiraj Behera</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • AI & ML Enthusiast • DSA Learner
+Full Stack Developer • AI & ML Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Dhiraj+Manas+Behera;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning+New+Things!" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things!" />
+
 </p>
 
 ---
 
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
 ## 👨‍💻 About Me
 
-🎓 Third Year Computer Science Engineering Student at **Walchand College of Engineering, Sangli**
-
-💻 Passionate about **Full Stack Development, Artificial Intelligence and Machine Learning**
-
-🌱 Currently learning **Deep Learning, GenAI and Advanced MERN Stack**
-
-🧩 Solving **Data Structures & Algorithms** problems on LeetCode
-
-🏆 ACM Hackathon Finalist
-
-🚀 Always exploring new technologies and building impactful projects
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Learner-blueviolet?style=for-the-badge"/>
-
-</p>
+- 🎓 Third Year CSE Student at **Walchand College of Engineering**
+- 💻 Passionate about **Full Stack Development & AI/ML**
+- 🧩 Solving **Data Structures & Algorithms**
+- 🚀 Building impactful real-world projects
+- 🏆 ACM Hackathon Finalist
+- 📫 **Email:** **dhiraj.tech02@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/dhiraj-behera/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/dhiraj-init" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 <a href="https://leetcode.com/u/dhirutech_002/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/dhirutech_02" target="_blank">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="45"/>
 </a>
 
 <a href="https://codeforces.com/profile/dhirutech_002" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="45"/>
 </a>
 
-<a href="https://www.instagram.com/dhiraj_296/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/@bestfindshub-bfh1" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.codechef.com/users/dhirutech_02" target="_blank">
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45"/>
 </a>
 
 <a href="mailto:dhiraj.tech02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 </p>
 
 ---
 
-## 🚀 Languages & Tools
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,linux,vscode&perline=9"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,linux,vscode&perline=10"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/dhirutech_002/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/dhirutech_002">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/dhirutech_02">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/dhirutech_002?theme=dark&font=Poppins&ext=contest"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -94,10 +114,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-init&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -111,7 +127,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-init&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiraj-init&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -120,74 +136,29 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dhiraj-init/dhiraj-init/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
-## 🏆 GitHub Trophies
+<img src="https://raw.githubusercontent.com/dhiraj-init/dhiraj-init/output/github-contribution-grid-snake-dark.svg"/>
+
+---
+
+## 💭 Dev Quote
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dhiraj-init&theme=onedark&row=1&column=7"/>
+> **"An expert was once a beginner."**
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<p align="center">
 
-⭐ **Hyperlocal Student Marketplace**
+<img src="https://komarev.com/ghpvc/?username=dhiraj-init&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-A secure marketplace exclusively for college students to buy and sell books, electronics, cycles and other essentials.
-
----
-
-
-⭐ **Blood Donation & Utilization Optimizer**
-
-A smart system that predicts blood demand, connects donors with hospitals and optimizes blood inventory using AI.
-
----
-
-## 🏆 Achievements
-
-- 🎓 Third Year CSE Student @ Walchand College of Engineering
-- 🏆 ACM Hackathon Finalist
-- 💻 Full Stack Developer
-- 🤖 AI & ML Enthusiast
-- 📚 Solving DSA on LeetCode
-- 🌱 Open Source Learner
+</p>
 
 <h3 align="center">
 
-✨ Code • Learn • Build • Repeat ✨
+⭐ Thanks for visiting my profile ⭐
 
 </h3>
-
-## 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Next.js
-- System Design
-
----
-
-## 📫 Reach Me
-
-📧 **dhiraj.tech02@gmail.com**
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/dhiraj-behera/
-
-💻 **LeetCode:** https://leetcode.com/u/dhirutech_002/
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dhiraj-init&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
